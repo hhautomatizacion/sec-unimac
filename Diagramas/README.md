@@ -13,3 +13,9 @@
 * Diagramas de bloques
 
 * Dibujos
+
+---
+![unimac-01.png](/Diagramas/unimac-01.png)
+---
+![unimac-02.png](/Diagramas/unimac-02.png)
+---
